@@ -1,4 +1,4 @@
-Retail Price Optimization & Discount Analysis
+# Retail Price Optimization & Discount Analysis
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SciPy](https://img.shields.io/badge/Optimisation-SciPy-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
