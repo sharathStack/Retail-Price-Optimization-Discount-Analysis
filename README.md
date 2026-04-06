@@ -18,9 +18,14 @@ Run
 pip install -r DS4_RetailPrice__requirements.txt
 python DS4_RetailPrice__main.py
 ```
-Key Results
+## Key Results
+
 Segment	Elasticity	Optimal Discount
+
 Budget	~−2.0 (highly elastic)	~33%
+
 Mid-Market	~−1.3 (moderate)	~28%
+
 Premium	~−0.7 (inelastic)	~18%
+
 Premium customers barely respond to discounts — over-discounting erodes margin without meaningful volume gain.
